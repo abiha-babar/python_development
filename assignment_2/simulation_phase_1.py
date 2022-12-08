@@ -5,7 +5,7 @@ q1 = []
 q2 = []
 q3 = []
 
-total_numbers_to_be_generated = 10
+total_numbers_to_be_generated = 100
 generated = 1
 
 
