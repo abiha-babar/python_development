@@ -1,6 +1,6 @@
 attendence = []
 
-with open('attendence.csv') as file:
+with open('assignment_3/attendence.csv') as file:
     for line in file:
         attendence.append(line)
 
