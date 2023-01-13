@@ -1,0 +1,1 @@
+Sample text for r_mode_example file.

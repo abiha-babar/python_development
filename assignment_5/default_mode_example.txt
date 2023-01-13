@@ -1,0 +1,1 @@
+Sample text for default_mode_example file.
